@@ -1,0 +1,12 @@
+.container {
+    padding: 10px;
+    background: yellow;
+  }
+  
+  .slick-slide img {
+
+    width: 100%;
+    height: 500px;
+    margin: auto;
+    align-content: center;
+  }
